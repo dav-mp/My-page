@@ -1,0 +1,22 @@
+:root{
+    --iconsize: 6rem 6rem;
+}
+html{
+    font-size:62.5%;/*para usar rems*/
+}
+body{
+    font-size:16px;/*igual para usar rems donde ejemplo: 6 rem =60 px*/
+}
+h2{
+    text-align: center; 
+}
+span{
+   font-size:2rem;
+    
+}
+
+
+#SQLicon{
+    height: 8rem;
+    width: 8rem;
+}
